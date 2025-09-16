@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Americano",
+    "precio": 3000
+  },
+  {
+    "id": 2,
+    "nombre": "Sandwich de Jamón",
+    "precio": 8000
+  },
+  {
+    "id": 3,
+    "nombre": "Empanada",
+    "precio": 2500
+  },
+  {
+    "id": 4,
+    "nombre": "Jugo Natural",
+    "precio": 4000
+  },
+  {
+    "id": 5,
+    "nombre": "Croissant",
+    "precio": 3500
+  },
+  {
+    "id": 6,
+    "nombre": "Dulce",
+    "precio": 500
+  },
+  {
+    "id": 7,
+    "nombre": "Almojabana",
+    "precio": 2000.0
+  }
+]
